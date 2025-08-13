@@ -2,7 +2,7 @@
 
 #include "esphome/core/component.h"
 #include "esphome/components/mqtt/mqtt_client.h"
-#include "esp_wifi.h"
+#include "ESP8266WiFi.h"
 #include "esp_now.h"
 
 namespace esphome
